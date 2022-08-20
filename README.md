@@ -1,1 +1,1 @@
-# my-first-simle-grid
+# my-first-simple-grid
